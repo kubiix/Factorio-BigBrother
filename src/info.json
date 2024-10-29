@@ -1,0 +1,9 @@
+{
+  "name": "big-brother",
+  "version": "2.0.0",
+  "title": "Big Brother 2.0",
+  "author": "kubiix, Afforess, pw_sys",
+  "description": "Big Brother - Research radar upgrades in amplification, efficiency, and surveillance capabilities. Create the ultimate surveillance state.",
+  "factorio_version": "2.0",
+  "dependencies": ["base >= 2.0"]
+}
